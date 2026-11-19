@@ -3,7 +3,7 @@
   "name": "HoyuShot Vietnamese Plugin",
   "version": "1.0.1",
   "author": "Hoyuuna",
-  "description": "Gói ngôn ngữ Tiếng Việt hoàn chỉnh 100% dành cho ứng dụng máy ảnh chuyên nghiệp HoyuShot",
+  "description": "Gói ngôn ngữ Tiếng Việt dành cho ứng dụng HoyuShot",
   "type": "LANGUAGE_PACK",
   "translations": {
     "01 // CAPTURE & SENSOR": "01 // CẢM BIẾN & CHỤP ẢNH",
