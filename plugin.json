@@ -1,7 +1,7 @@
 {
   "id": "com.hoyuuna.language.vietnamese",
-  "name": "Tiếng Việt (HoyuShot Vietnamese Pack)",
-  "version": "1.0.0",
+  "name": "HoyuShot Vietnamese Plugin",
+  "version": "1.0.1",
   "author": "Hoyuuna",
   "description": "Gói ngôn ngữ Tiếng Việt hoàn chỉnh 100% dành cho ứng dụng máy ảnh chuyên nghiệp HoyuShot",
   "type": "LANGUAGE_PACK",
